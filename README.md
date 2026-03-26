@@ -11,14 +11,14 @@ A modern Android app built on Java that does a simple currency, fuel and tempera
 1. Clone the repository
 2. Open in Android Studio
 3. Sync project with Gradle files
-4. Run on device/emulator
+4. Run on device or emulator
 
 ## Tech Stack
 - Java
 - XML
 
 ## Contributing
-Pull requests are welcome!
+To be confirmed for pull requests
 
 ## License
 MIT
