@@ -1,6 +1,6 @@
-# MyTavelCompanion App
+# Quiz App
 
-A modern Android app built on Java that does a simple currency, fuel and temperature conversion. Its the first project task for SIT708 Task 2.1P
+A modern Android app built on Java that does a simple quiz for users. Its for the SIT708 3.1C project.
 
 ## Getting Started
 
