@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:ignore="ScrollViewCount">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="24dp"
+        tools:ignore="UselessParent">
+
+        <!-- Currency Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="sans-serif"
+            android:text="@string/currency_converter"
+            android:textColor="#4D7394"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/getAmount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/edittext_background"
+            android:hint="@string/enter_amount"
+            android:importantForAutofill="no"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinFrom"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="1" />
+
+            <Spinner
+                android:id="@+id/spinTo"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnConvertCurrency"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#4D7394"
+            android:paddingHorizontal="40dp"
+            android:paddingVertical="12dp"
+            android:text="@string/convert"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/currencyResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:text="@string/showResult"
+            android:textColor="#0DA6E7"
+            android:textSize="18sp"/>
+
+        <!-- Fuel Section -->
+        <TextView
+            android:id="@+id/fuelEfficiency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/Fuel"
+            android:textColor="#4D7394"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/getDistance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/edittext_background"
+            android:hint="@string/enter_distance"
+            android:importantForAutofill="no"
+            android:inputType="numberDecimal"
+            android:padding="12dp"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinFuel"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnFuel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#4D7394"
+            android:paddingHorizontal="40dp"
+            android:paddingVertical="12dp"
+            android:text="@string/convert"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:id="@+id/fuelResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:text="@string/showResult"
+            android:textColor="#0DA6E7"
+            android:textSize="18sp"/>
+
+        <!-- Temperature Section -->
+        <TextView
+            android:id="@+id/txtTemp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/Temp"
+            android:textColor="#4D7394"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/editTemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/edittext_background"
+            android:hint="@string/enter_distance"
+            android:inputType="numberSigned|numberDecimal"
+            android:importantForAutofill="no"
+            android:padding="12dp"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinTemp"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnTemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#4D7394"
+            android:paddingHorizontal="40dp"
+            android:paddingVertical="12dp"
+            android:text="@string/convert"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tempResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:text="@string/showResult"
+            android:textColor="#0DA6E7"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+</LinearLayout>
