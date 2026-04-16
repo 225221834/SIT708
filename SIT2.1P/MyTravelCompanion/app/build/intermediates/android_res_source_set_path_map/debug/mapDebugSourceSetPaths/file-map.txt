@@ -1,0 +1,7 @@
+com.example.mytravelcompanion.app-pngs-0 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/build/generated/res/pngs/debug
+com.example.mytravelcompanion.app-updated_navigation_xml-1 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/build/generated/updated_navigation_xml/debug
+com.example.mytravelcompanion.app-packageDebugResources-2 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mytravelcompanion.app-packageDebugResources-3 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mytravelcompanion.app-debug-4 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.mytravelcompanion.app-debug-5 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/src/debug/res
+com.example.mytravelcompanion.app-main-6 /Users/homedesk/AndroidStudioProjects/MyTravelCompanion/app/src/main/res
