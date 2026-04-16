@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Fuel">"Fuel Efficiency "</string>
+    <string name="Temp">Temperature</string>
+    <string name="app_name">MyTravelCompanion</string>
+    <string name="convert">Convert</string>
+    <string name="currency_converter">Currency Conversion</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="enter_distance">Enter value</string>
+    <string name="result_will_appear_here">Result will show here</string>
+    <string name="showResult">Result will show here</string>
+    <string name="tell">tell them more</string>
+    <style name="Base.Theme.MyTravelCompanion" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyTravelCompanion" parent="Base.Theme.MyTravelCompanion"/>
+</resources>
