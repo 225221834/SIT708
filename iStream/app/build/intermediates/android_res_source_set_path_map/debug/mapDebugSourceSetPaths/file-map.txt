@@ -1,0 +1,8 @@
+com.example.istream.app-pngs-0 /Users/homedesk/AndroidStudioProjects/iStream/app/build/generated/res/pngs/debug
+com.example.istream.app-updated_navigation_xml-1 /Users/homedesk/AndroidStudioProjects/iStream/app/build/generated/updated_navigation_xml/debug
+com.example.istream.app-packageDebugResources-2 /Users/homedesk/AndroidStudioProjects/iStream/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.istream.app-packageDebugResources-3 /Users/homedesk/AndroidStudioProjects/iStream/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.istream.app-debug-4 /Users/homedesk/AndroidStudioProjects/iStream/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.istream.app-debug-5 /Users/homedesk/AndroidStudioProjects/iStream/app/src/debug/res
+com.example.istream.app-main-6 /Users/homedesk/AndroidStudioProjects/iStream/app/src/main/res
+gradleHome-0 /Users/homedesk/.gradle

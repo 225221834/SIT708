@@ -1,0 +1,49 @@
+<navigation
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/nav_graph"
+app:startDestination="@id/homeFragment" >
+<fragment
+    android:id="@+id/loginFragment"
+    android:name="com.example.istream.ui.auth.LoginFragment"
+    android:label="Login" />
+<fragment
+    android:id="@+id/signUpFragment"
+    android:name="com.example.istream.ui.auth.SignupFragment"
+    android:label="Sign Up" />
+<fragment
+    android:id="@+id/homeFragment"
+    android:name="com.example.istream.HomeFragment"
+    android:label="iStream Home" />
+<fragment
+    android:id="@+id/playerFragment"
+    android:name="com.example.istream.PlayerFragment"
+    android:label="Video Player" >
+
+    <argument
+        android:name="youtube_url"
+        app:argType="string" />
+
+</fragment>
+<fragment
+    android:id="@+id/playlistFragment"
+    android:name="com.example.istream.PlaylistFragment"
+    android:label="My Playlist" />
+
+<!-- Actions -->
+<action
+    android:id="@+id/action_login_to_signUp"
+    app:destination="@id/signUpFragment" />
+<action
+    android:id="@+id/action_login_to_home"
+    app:destination="@id/homeFragment" />
+<action
+    android:id="@+id/action_home_to_player"
+    app:destination="@id/playerFragment" />
+<action
+    android:id="@+id/action_home_to_playlist"
+    app:destination="@id/playlistFragment" />
+<action
+    android:id="@+id/action_playlist_to_player"
+    app:destination="@id/playerFragment" />
+</navigation>
