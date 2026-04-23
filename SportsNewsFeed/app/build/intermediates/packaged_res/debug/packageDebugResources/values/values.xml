@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="app_name">SportsNewsFeed</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="featured_matches">Featured Matches</string>
+    <string name="home">Home</string>
+    <string name="img_icon">Image Icon</string>
+    <string name="latest_sports_news">Latest Sports News</string>
+    <string name="news_bookmarks">News Bookmarks</string>
+    <string name="news_image">News Image</string>
+    <string name="related_stories">Related Stories</string>
+    <string name="sports_news">Sports News</string>
+    <style name="Base.Theme.SportsNewsFeed" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SportsNewsFeed" parent="Base.Theme.SportsNewsFeed"/>
+</resources>

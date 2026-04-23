@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="bluer">#1D73A9</color>
+    <color name="dim">#E5ECF2</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <string name="add_to_playlist">ADD TO PLAYLIST</string>
+    <string name="app_name">iStream</string>
+    <string name="istream_youtube">iStream - YouTube</string>
+    <string name="logout">Logout</string>
+    <string name="my_playlist">MY PLAYLIST</string>
+    <string name="play">PLAY</string>
+    <string name="welcome_to_istream">Welcome to iStream</string>
+    <string name="youtube_url">YouTube URL</string>
+    <style name="Base.Theme.IStream" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.IStream" parent="Base.Theme.IStream"/>
+</resources>

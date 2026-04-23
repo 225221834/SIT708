@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/news_item.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-main-39:/layout/news_item.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/fragment_home.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-main-39:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/fragment_bookmarks.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-main-39:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/news_item_card.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-main-39:/layout/news_item_card.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/fragment_detail.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.sportsnewsfeed.app-main-39:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.example.sportsnewsfeed.app-mergeDebugResources-36:/layout/fragment_bookmarks.xml",
+        "source": "com.example.sportsnewsfeed.app-main-39:/layout/fragment_bookmarks.xml"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_fragment_sign_up.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_nav_graph.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_item_playlist.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/item_playlist.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_fragment_login.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_signup_fragment.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/signup_fragment.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_fragment_playlist.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.istream.app-debug-43:/layout_fragment_home.xml.flat",
+        "source": "com.example.istream.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_fragment_home.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_fragment_player.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_home_fragment.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-debug-43:/layout_login_fragment.xml.flat",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/login_fragment.xml"
+    }
+]

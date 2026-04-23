@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/fragment_playlist.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/fragment_sign_up.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/signup_fragment.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/signup_fragment.xml"
+    },
+    {
+        "merged": "com.example.istream.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "com.example.istream.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/item_playlist.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/item_playlist.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/home_fragment.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/nav_graph.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/fragment_login.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/fragment_home.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/fragment_player.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-mergeDebugResources-42:/layout/login_fragment.xml",
+        "source": "/Users/homedesk/.gradle/daemon/9.4.1/com.example.istream.app-main-45:/layout/login_fragment.xml"
+    }
+]
