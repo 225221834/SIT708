@@ -1,4 +1,4 @@
-# MyTavelCompanion App
+# iStream App
 
 A modern Android app built on Java that streams youtube videos and saves the links for users for have been registered. Its the the project task for SIT708 Task 3.1C
 
