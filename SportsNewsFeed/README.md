@@ -1,4 +1,4 @@
-# MyTavelCompanion App
+# Sports News Feed App
 
 A modern Android app built on Java that show a sports news app feed, capturing the featured and related stories. Its the project task for SIT708 Task 5.1C
 
