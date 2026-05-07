@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lost &amp; Found App</string>
+    <string name="create_a_new_advert">CREATE A NEW ADVERT</string>
+    <string name="items_lost_found"><![CDATA[SHOW ALL LOST & FOUND ITEMS]]></string>
+    <string name="txt_lost_found"><![CDATA[Welcome to LOST & FOUND App]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_type">Post Type:</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="category">Category</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="save">SAVE</string>
+    <string name="category_filter">Filter by Category:</string>
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Pets</item>
+        <item>Wallets</item>
+        <item>Documents</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="filter_categories">
+        <item>All</item>
+        <item>Electronics</item>
+        <item>Pets</item>
+        <item>Wallets</item>
+        <item>Documents</item>
+        <item>Other</item>
+    </string-array>
+</resources>
