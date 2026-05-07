@@ -13,6 +13,9 @@ A modern Android app that is built on Java that show a list of lost and found it
 3. Sync project with Gradle files
 4. Run on device or emulator
 
+### Screenshots
+![alt text](image.png)![alt text](image-1.png)!
+[alt text](image-2.png)![alt text](image-3.png)
 ## Tech Stack
 - Java
 - XML
