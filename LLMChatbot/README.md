@@ -13,6 +13,12 @@ A modern Android app built on Java that does a chat conversion with cloud Gemini
 3. Sync project with Gradle files
 4. Run on device or emulator
 
+### Screen Shots
+
+![LLM chat](image-1.png)
+![LLM chat](image.png)
+
+
 ## Tech Stack
 - Java
 - XML
