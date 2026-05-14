@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LLM Chatbot</string>
+    <string name="username">Username</string>
+    <string name="sign_in">GO</string>
+    <string name="lets_chat">Lets Chat!</string>
+    <string name="hint_type_message">Type a message...</string>
+    <string name="content_desc_send">Send</string>
+    <string name="welcome">Welcome</string>
+
+</resources>
