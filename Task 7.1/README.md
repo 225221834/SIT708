@@ -1,6 +1,6 @@
 # Lost & Found App
 
-A modern Android app that is built on Java that show a list of lost and found items. Users can locate any items lost or post an item they have lost to retrieve it back. Its the project task for SIT708 Task 5.1C
+A modern Android app that is built on Java that show a list of lost and found items. Users can locate any items lost or post an item they have lost to retrieve it back. Its the project task for SIT708 Task 7.1P
 
 ## Getting Started
 
