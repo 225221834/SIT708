@@ -100,7 +100,7 @@ public class NewAdvertFragment extends Fragment {
 
         // Initialize Places
         if (!Places.isInitialized()) {
-            Places.initialize(requireContext().getApplicationContext(), "AIzaSyCR93Y93JKM1i5oCakKkGpfh2WWWq9Brwg");
+            Places.initialize(requireContext().getApplicationContext(), "API_KEY_HERE");
         }
         placesClient = Places.createClient(requireContext());
 
